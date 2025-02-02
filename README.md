@@ -26,7 +26,7 @@ The dataset includes:
 - **Excel / CSV Processing** for data structuring
 - **Python (Pandas, Matplotlib)** *(optional for preprocessing and further analysis)*
   
-![HR Analytics Dashboard](HR_PDF.png)
+![HR Analytics Dashboard](HR.png)
 
 ## 📌 Features
 
