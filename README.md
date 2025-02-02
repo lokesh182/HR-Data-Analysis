@@ -1,6 +1,8 @@
 # 📊 HR Analytics Dashboard
 
-This repository contains an HR analytics project that provides insights into employee attendance, work-from-home (WFH) trends, and sick leave (SL) statistics using **Power BI Desktop**.
+This repository contains an Dyanamic HR analytics project that provides insights into employee attendance, work-from-home (WFH) trends, and sick leave (SL) statistics using **Power BI Desktop**.
+project is build upon the real dataset of company
+
 
 ## 📌 Overview
 
