@@ -26,7 +26,6 @@ The dataset includes:
 
 - **Power BI Desktop** for visualization and insights
 - **Excel / CSV Processing** for data structuring
-- **Python (Pandas, Matplotlib)** *(optional for preprocessing and further analysis)*
   
 ![HR Analytics Dashboard](HR.png)
 
